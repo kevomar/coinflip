@@ -30,3 +30,5 @@ button1.addEventListener('click', () => {
     playcount += 1
     console.log(playcount)
 })
+
+//adding a comment to test the git push command
